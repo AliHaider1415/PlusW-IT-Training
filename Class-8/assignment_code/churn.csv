@@ -1,0 +1,31 @@
+customerID,tenure,monthly_charges,contract_type,internet_service,churn
+C001,52,118.32,month-to-month,DSL,1
+C002,15,66.68,one year,Fiber,0
+C003,72,105.99,two year,None,1
+C004,61,88.03,month-to-month,DSL,0
+C005,21,65.05,one year,Fiber,1
+C006,24,21.33,two year,None,0
+C007,3,114.22,month-to-month,DSL,1
+C008,22,76.33,one year,Fiber,0
+C009,53,58.54,two year,None,1
+C010,2,21.6,month-to-month,DSL,0
+C011,30,43.09,one year,Fiber,1
+C012,38,44.1,two year,None,0
+C013,2,88.33,month-to-month,DSL,1
+C014,64,81.0,one year,Fiber,0
+C015,60,103.32,two year,None,1
+C016,21,37.34,month-to-month,DSL,0
+C017,33,59.11,one year,Fiber,1
+C018,58,38.22,two year,None,0
+C019,22,95.54,month-to-month,DSL,1
+C020,49,62.52,one year,Fiber,0
+C021,59,40.79,two year,None,1
+C022,42,76.77,month-to-month,DSL,0
+C023,60,23.13,one year,Fiber,1
+C024,15,104.23,two year,None,0
+C025,62,64.98,month-to-month,DSL,1
+C026,62,59.52,one year,Fiber,0
+C027,47,112.67,two year,None,1
+C028,62,92.73,month-to-month,DSL,0
+C029,51,52.65,one year,Fiber,1
+C030,55,77.04,two year,None,0
